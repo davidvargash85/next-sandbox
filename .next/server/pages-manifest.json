@@ -1,10 +1,5 @@
 {
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
-  "/accounts/[id]": "pages/accounts/[id].js",
-  "/comments": "pages/comments.js",
-  "/": "pages/index.js",
-  "/_error": "pages/_error.js",
-  "/form": "pages/form.js",
-  "/api/form": "pages/api/form.js"
+  "/": "pages/index.js"
 }
