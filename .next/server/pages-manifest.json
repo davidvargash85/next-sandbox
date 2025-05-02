@@ -1,5 +1,10 @@
 {
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/": "pages/index.js",
+  "/form": "pages/form.js",
+  "/_error": "pages/_error.js",
+  "/accounts/[id]": "pages/accounts/[id].js",
+  "/api/fetch/[id]": "pages/api/fetch/[id].js",
+  "/api/form": "pages/api/form.js"
 }

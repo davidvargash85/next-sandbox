@@ -1,11 +1,5 @@
-import { ApiError } from "@/zz_testUtils/types";
+import type { Input, ApiError } from "@/types";
 import type { NextApiRequest, NextApiResponse } from "next";
-
-type Input = {
-  email: string;
-  name: string;
-  phone: string;
-};
 
 export default function handler(
   req: NextApiRequest,
